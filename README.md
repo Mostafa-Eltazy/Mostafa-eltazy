@@ -4,11 +4,11 @@
 
 <p align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/mostafa-eltazy](https://github.com/mostafa-eltazy)
+<li> - 👨‍💻 All of my projects are available at [https://github.com/mostafa-eltazy](https://github.com/mostafa-eltazy) </li>
 
-- 📫 How to reach me **mostafa.eltazy@gmail.com**
+<li> - 📫 How to reach me **mostafa.eltazy@gmail.com** </li>
 
-- 📄 Know about my experiences [linkedin.com/in/mostafa-eltazy/](linkedin.com/in/mostafa-eltazy/)
+<li> - 📄 Know about my experiences [linkedin.com/in/mostafa-eltazy/](linkedin.com/in/mostafa-eltazy/)</li>
   
 </p>
 <h3 align="left">Connect with me:</h3>
