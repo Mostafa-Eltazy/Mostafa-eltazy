@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-naty&theme=onedark" alt="the-naty" /></a> </p>
 
-<ul align="center">
+<ul>
 
 <li>  👨‍💻 All of my projects are available at [https://github.com/mostafa-eltazy](https://github.com/mostafa-eltazy) </li>
 
