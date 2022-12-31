@@ -1,6 +1,6 @@
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-naty&theme=onedark" alt="the-naty" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-naty&theme=onedark" alt="the-naty" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/mostafa-eltazy](https://github.com/mostafa-eltazy)
