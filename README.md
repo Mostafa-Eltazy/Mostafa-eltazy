@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Mostafa-Eltazy/Mostafa-eltazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <div>
+      <h3 align="center">A passionate backend developer from Egypt</h3>
+      <p align="left">
+        {' '}
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=mostafa-eltazy&theme=onedark" alt="mostafa-eltazy" />
+        </a>{' '}
+      </p>
+      {/* - 🔭 I’m currently working on [insta-clone](https://github.com/The-Naty/Insta-clone.git) project */}
+      {/* - 🌱 I’m currently learning **Database architectures** */}- 👨‍💻 All of my projects are available at
+      [https://github.com/mostafa-eltazy](https://github.com/mostafa-eltazy) - 📫 How to reach me **youssef-el-zanaty@outlook.com** - 📄 Know about my
+      experiences [linkedin.com/in/mostafa-eltazy/](linkedin.com/in/mostafa-eltazy/)
+      <h3 align="left">Connect with me:</h3>
+      <p align="left">
+        <a href="https://linkedin.com/in/mostafa-eltazy" target="blank">
+          <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="Mostafa Eltazy"
+            height="30"
+            width="40"
+          />
+        </a>
+      </p>
+     
