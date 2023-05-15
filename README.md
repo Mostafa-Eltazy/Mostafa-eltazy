@@ -32,6 +32,4 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-eltazy&show_icons=true&theme=dark&locale=en" alt="mostafa-eltazy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-eltazy&theme=dark" alt="mostafa-eltazy" /></p>
